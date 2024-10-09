@@ -1,0 +1,62 @@
+#foto {
+    width: 100%; 
+    margin-top: 60px;
+    
+}
+
+nav {
+    background-color: #153448;
+    color: #DFD0B8;
+}
+
+
+
+
+.text-justify{
+    text-align: justify;
+}
+
+a.menuMatheus{
+
+    color: #DFD0B8;
+}
+
+
+.bcgColor{
+    background-color: #F5F5F7;
+}
+
+.topBcgSobre{
+    background-color: #153448;
+    width: 6%;
+}
+
+.scrollTop{
+    scroll-margin-top: 40px ;
+}
+
+.margin{
+    padding: 20px;
+}
+
+.topBcgFormacao{
+    background-color: #153448;
+    width: 21.5%;
+}
+
+.topBcgExp{
+    width: 23.5%;
+}
+
+.center{
+    text-align: center;
+}
+
+th.tblwidth{
+    width: 20%;
+
+}
+
+.topBcgContato{
+    width: 19.5%;
+}
