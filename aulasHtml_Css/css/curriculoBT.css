@@ -48,7 +48,7 @@ a.menuMatheus{
     width: 23.5%;
 }
 
-.center{
+#center{
     text-align: center;
 }
 
@@ -58,5 +58,5 @@ th.tblwidth{
 }
 
 .topBcgContato{
-    width: 19.5%;
+    width: 60%;
 }
